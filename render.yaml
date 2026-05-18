@@ -23,5 +23,3 @@ services:
 
     startCommand: |
       python scraper.py
-
-    plan: free
