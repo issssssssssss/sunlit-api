@@ -374,6 +374,44 @@ def obtener_precios():
             datos_totales
     }
 
+    # =========================
+    # VALIDAR DATOS
+    # =========================
+
+    if len(datos_totales) == 0:
+
+        print(
+            "No se encontraron datos."
+        )
+
+        print(
+            "Se conservará el JSON anterior."
+        )
+
+        driver.quit()
+
+        return
+
+    # =========================
+    # NUEVO JSON
+    # =========================
+
+    resultado_final = {
+
+        "ultima_actualizacion":
+
+            datetime.now().strftime(
+                "%d/%m/%Y %H:%M"
+            ),
+
+        "productos":
+            datos_totales
+    }
+
+    # =========================
+    # GUARDAR JSON
+    # =========================
+
     with open(
 
         RUTA_JSON,
