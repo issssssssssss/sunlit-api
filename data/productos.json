@@ -1,0 +1,252 @@
+{
+  "ultima_actualizacion": "17/05/2026 23:00",
+  "productos": [
+
+    {
+      "fecha": "17/05/2026",
+      "producto": "Maiz Blanco",
+      "cultivo_base": "Maiz",
+      "presentacion": "Tonelada",
+      "origen": "Sinaloa",
+      "estado_destino": "Jalisco",
+      "lugar_destino": "Centro Logístico",
+      "precio_min": "5400",
+      "precio_max": "6200",
+      "precio_frecuente": "5900"
+    },
+
+    {
+      "fecha": "17/05/2026",
+      "producto": "Maiz Amarillo",
+      "cultivo_base": "Maiz",
+      "presentacion": "Tonelada",
+      "origen": "Sonora",
+      "estado_destino": "CDMX",
+      "lugar_destino": "Central de Abasto",
+      "precio_min": "5200",
+      "precio_max": "6100",
+      "precio_frecuente": "5750"
+    },
+
+    {
+      "fecha": "17/05/2026",
+      "producto": "Tomate Saladette",
+      "cultivo_base": "Tomate",
+      "presentacion": "Caja 20 kg",
+      "origen": "Sinaloa",
+      "estado_destino": "CDMX",
+      "lugar_destino": "Central de Abasto",
+      "precio_min": "420",
+      "precio_max": "510",
+      "precio_frecuente": "470"
+    },
+
+    {
+      "fecha": "17/05/2026",
+      "producto": "Tomate Bola",
+      "cultivo_base": "Tomate",
+      "presentacion": "Caja 20 kg",
+      "origen": "Jalisco",
+      "estado_destino": "Monterrey",
+      "lugar_destino": "Mercado de Abastos",
+      "precio_min": "390",
+      "precio_max": "500",
+      "precio_frecuente": "455"
+    },
+
+    {
+      "fecha": "17/05/2026",
+      "producto": "Tomate Cherry",
+      "cultivo_base": "Tomate",
+      "presentacion": "Caja 10 kg",
+      "origen": "Baja California",
+      "estado_destino": "Guadalajara",
+      "lugar_destino": "Mercado Felipe Ángeles",
+      "precio_min": "480",
+      "precio_max": "620",
+      "precio_frecuente": "560"
+    },
+
+    {
+      "fecha": "17/05/2026",
+      "producto": "Zanahoria Premium",
+      "cultivo_base": "Zanahoria",
+      "presentacion": "Caja 15 kg",
+      "origen": "Puebla",
+      "estado_destino": "Guadalajara",
+      "lugar_destino": "Mercado Felipe Ángeles",
+      "precio_min": "250",
+      "precio_max": "340",
+      "precio_frecuente": "300"
+    },
+
+    {
+      "fecha": "17/05/2026",
+      "producto": "Zanahoria Baby",
+      "cultivo_base": "Zanahoria",
+      "presentacion": "Caja 10 kg",
+      "origen": "Estado de México",
+      "estado_destino": "Querétaro",
+      "lugar_destino": "Mercado Municipal",
+      "precio_min": "280",
+      "precio_max": "360",
+      "precio_frecuente": "320"
+    },
+
+    {
+      "fecha": "17/05/2026",
+      "producto": "Papa Blanca",
+      "cultivo_base": "Papa",
+      "presentacion": "Costal 50 kg",
+      "origen": "Sonora",
+      "estado_destino": "CDMX",
+      "lugar_destino": "Central de Abasto",
+      "precio_min": "680",
+      "precio_max": "790",
+      "precio_frecuente": "730"
+    },
+
+    {
+      "fecha": "17/05/2026",
+      "producto": "Papa Alpha",
+      "cultivo_base": "Papa",
+      "presentacion": "Costal 50 kg",
+      "origen": "Sinaloa",
+      "estado_destino": "Monterrey",
+      "lugar_destino": "Mercado Juárez",
+      "precio_min": "700",
+      "precio_max": "820",
+      "precio_frecuente": "760"
+    },
+
+    {
+      "fecha": "17/05/2026",
+      "producto": "Lechuga Romana",
+      "cultivo_base": "Lechuga",
+      "presentacion": "Caja 12 piezas",
+      "origen": "Guanajuato",
+      "estado_destino": "Querétaro",
+      "lugar_destino": "Mercado Municipal",
+      "precio_min": "180",
+      "precio_max": "260",
+      "precio_frecuente": "220"
+    },
+
+    {
+      "fecha": "17/05/2026",
+      "producto": "Lechuga Orejona",
+      "cultivo_base": "Lechuga",
+      "presentacion": "Caja 10 piezas",
+      "origen": "Puebla",
+      "estado_destino": "CDMX",
+      "lugar_destino": "Central de Abasto",
+      "precio_min": "190",
+      "precio_max": "280",
+      "precio_frecuente": "235"
+    },
+
+    {
+      "fecha": "17/05/2026",
+      "producto": "Tomatillo Verde",
+      "cultivo_base": "Tomatillo",
+      "presentacion": "Caja 15 kg",
+      "origen": "Michoacán",
+      "estado_destino": "Guadalajara",
+      "lugar_destino": "Mercado de Abastos",
+      "precio_min": "300",
+      "precio_max": "390",
+      "precio_frecuente": "350"
+    },
+
+    {
+      "fecha": "17/05/2026",
+      "producto": "Girasol Premium",
+      "cultivo_base": "Girasol",
+      "presentacion": "Costal 25 kg",
+      "origen": "Tamaulipas",
+      "estado_destino": "CDMX",
+      "lugar_destino": "Central de Abasto",
+      "precio_min": "900",
+      "precio_max": "1100",
+      "precio_frecuente": "980"
+    },
+
+    {
+      "fecha": "17/05/2026",
+      "producto": "Frijol Pinto",
+      "cultivo_base": "Frijol",
+      "presentacion": "Costal 50 kg",
+      "origen": "Zacatecas",
+      "estado_destino": "Monterrey",
+      "lugar_destino": "Mercado Juárez",
+      "precio_min": "1200",
+      "precio_max": "1450",
+      "precio_frecuente": "1320"
+    },
+
+    {
+      "fecha": "17/05/2026",
+      "producto": "Frijol Negro",
+      "cultivo_base": "Frijol",
+      "presentacion": "Costal 50 kg",
+      "origen": "Durango",
+      "estado_destino": "CDMX",
+      "lugar_destino": "Central de Abasto",
+      "precio_min": "1150",
+      "precio_max": "1380",
+      "precio_frecuente": "1280"
+    },
+
+    {
+      "fecha": "17/05/2026",
+      "producto": "Calabaza Italiana",
+      "cultivo_base": "Calabaza",
+      "presentacion": "Caja 18 kg",
+      "origen": "Sinaloa",
+      "estado_destino": "Guadalajara",
+      "lugar_destino": "Mercado Felipe Ángeles",
+      "precio_min": "260",
+      "precio_max": "340",
+      "precio_frecuente": "300"
+    },
+
+    {
+      "fecha": "17/05/2026",
+      "producto": "Chia Organica",
+      "cultivo_base": "Chia",
+      "presentacion": "Costal 25 kg",
+      "origen": "Jalisco",
+      "estado_destino": "CDMX",
+      "lugar_destino": "Centro Logístico",
+      "precio_min": "2200",
+      "precio_max": "2700",
+      "precio_frecuente": "2450"
+    },
+
+    {
+      "fecha": "17/05/2026",
+      "producto": "Ajonjoli Dorado",
+      "cultivo_base": "Ajonjoli",
+      "presentacion": "Costal 25 kg",
+      "origen": "Guerrero",
+      "estado_destino": "Puebla",
+      "lugar_destino": "Mercado Municipal",
+      "precio_min": "1850",
+      "precio_max": "2250",
+      "precio_frecuente": "2050"
+    },
+
+    {
+      "fecha": "17/05/2026",
+      "producto": "Soja Premium",
+      "cultivo_base": "Soja",
+      "presentacion": "Tonelada",
+      "origen": "Tamaulipas",
+      "estado_destino": "Veracruz",
+      "lugar_destino": "Centro Agrícola",
+      "precio_min": "7100",
+      "precio_max": "8300",
+      "precio_frecuente": "7700"
+    }
+  ]
+}
