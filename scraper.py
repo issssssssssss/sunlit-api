@@ -26,14 +26,11 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 RUTA_JSON = "data/productos.json"
 
-# =========================
-# CREAR CARPETA DATA
-# =========================
-
 os.makedirs(
     "data",
     exist_ok=True
 )
+
 
 # =========================
 # LIMPIAR TEXTO
@@ -58,7 +55,7 @@ def limpiar_nombre_producto(texto):
 
     )
 
-    return texto
+    return texto.strip()
 
 
 # =========================
@@ -102,6 +99,25 @@ def obtener_cultivo_base(nombre_producto):
 
 
 # =========================
+# CONVERTIR A FLOAT
+# =========================
+
+def limpiar_precio(valor):
+
+    try:
+
+        valor = str(valor)\
+            .replace(",", "")\
+            .replace("$", "")\
+            .strip()
+
+        return float(valor)
+
+    except:
+        return 0
+
+
+# =========================
 # SCRAPER
 # =========================
 
@@ -109,7 +125,6 @@ def obtener_precios():
 
     options = Options()
 
-    # IMPORTANTE PARA RENDER
     options.add_argument("--headless=new")
 
     options.add_argument("--no-sandbox")
@@ -137,10 +152,6 @@ def obtener_precios():
     )
 
     wait = WebDriverWait(driver, 20)
-
-    # =========================
-    # ENTRAR AL MENÚ
-    # =========================
 
     driver.get(
         "https://www.economia-sniim.gob.mx/e_mennal.asp"
@@ -183,8 +194,6 @@ def obtener_precios():
 
         })
 
-    datos_totales = []
-
     cultivos_permitidos = [
 
         "Tomate",
@@ -197,6 +206,8 @@ def obtener_precios():
         "Aguacate"
 
     ]
+
+    cultivos_dict = {}
 
     # =========================
     # RECORRER PRODUCTOS
@@ -246,6 +257,8 @@ def obtener_precios():
                 "tr"
             )
 
+            mercados = []
+
             for fila in filas:
 
                 texto_unido = fila.text.strip()
@@ -275,7 +288,7 @@ def obtener_precios():
 
                 ]
 
-                if len(datos_fila) < 7:
+                if len(datos_fila) < 6:
                     continue
 
                 try:
@@ -284,34 +297,30 @@ def obtener_precios():
 
                     separado = valor_dest.split(":")
 
-                    if len(separado) == 2:
+                    if len(separado) >= 2:
 
                         estado_destino = \
                             separado[0].strip()
 
                         lugar_destino = \
-                            separado[1].strip()
+                            ":".join(
+                                separado[1:]
+                            ).strip()
 
                     else:
 
-                        estado_destino = \
-                            valor_dest
+                        estado_destino = valor_dest
 
                         lugar_destino = "N/A"
 
-                    documento = {
+                    mercado = {
 
                         "fecha":
                             datetime.now()
-                            .strftime(
-                                "%d/%m/%Y"
-                            ),
+                            .strftime("%d/%m/%Y"),
 
                         "producto":
                             producto['nombre'],
-
-                        "cultivo_base":
-                            cultivo_base,
 
                         "presentacion":
                             datos_fila[0],
@@ -326,18 +335,29 @@ def obtener_precios():
                             lugar_destino,
 
                         "precio_min":
-                            datos_fila[4],
+                            limpiar_precio(
+                                datos_fila[3]
+                            ),
 
                         "precio_max":
-                            datos_fila[5],
+                            limpiar_precio(
+                                datos_fila[4]
+                            ),
 
                         "precio_frecuente":
-                            datos_fila[6],
+                            limpiar_precio(
+                                datos_fila[5]
+                            ),
+
+                        "observaciones":
+                            datos_fila[6]
+                            if len(datos_fila) > 6
+                            else ""
 
                     }
 
-                    datos_totales.append(
-                        documento
+                    mercados.append(
+                        mercado
                     )
 
                 except Exception as e:
@@ -346,6 +366,69 @@ def obtener_precios():
                         "ERROR FILA:",
                         e
                     )
+
+            # =========================
+            # ESTADISTICAS
+            # =========================
+
+            precios = [
+
+                m["precio_frecuente"]
+
+                for m in mercados
+
+                if m["precio_frecuente"] > 0
+
+            ]
+
+            promedio = round(
+
+                sum(precios) / len(precios),
+
+                2
+
+            ) if precios else 0
+
+            cultivos_dict[cultivo_base] = {
+
+                "cultivo":
+                    cultivo_base,
+
+                "ultima_actualizacion":
+                    datetime.now().strftime(
+                        "%d/%m/%Y %H:%M"
+                    ),
+
+                "precio_promedio":
+                    promedio,
+
+                "total_mercados":
+                    len(mercados),
+
+                "total_estados":
+                    len(
+
+                        set(
+                            m["estado_destino"]
+                            for m in mercados
+                        )
+
+                    ),
+
+                "total_presentaciones":
+                    len(
+
+                        set(
+                            m["presentacion"]
+                            for m in mercados
+                        )
+
+                    ),
+
+                "mercados":
+                    mercados
+
+            }
 
             driver.switch_to.default_content()
 
@@ -358,59 +441,21 @@ def obtener_precios():
 
             driver.switch_to.default_content()
 
-    # =========================
-    # GUARDAR JSON
-    # =========================
+    driver.quit()
 
     resultado_final = {
 
         "ultima_actualizacion":
-
             datetime.now().strftime(
                 "%d/%m/%Y %H:%M"
             ),
 
-        "productos":
-            datos_totales
+        "cultivos":
+            list(
+                cultivos_dict.values()
+            )
+
     }
-
-    # =========================
-    # VALIDAR DATOS
-    # =========================
-
-    if len(datos_totales) == 0:
-
-        print(
-            "No se encontraron datos."
-        )
-
-        print(
-            "Se conservará el JSON anterior."
-        )
-
-        driver.quit()
-
-        return
-
-    # =========================
-    # NUEVO JSON
-    # =========================
-
-    resultado_final = {
-
-        "ultima_actualizacion":
-
-            datetime.now().strftime(
-                "%d/%m/%Y %H:%M"
-            ),
-
-        "productos":
-            datos_totales
-    }
-
-    # =========================
-    # GUARDAR JSON
-    # =========================
 
     with open(
 
@@ -435,12 +480,10 @@ def obtener_precios():
         )
 
     print(
-        f"Productos guardados: {len(datos_totales)}"
+        "JSON generado correctamente"
     )
 
-    driver.quit()
-
-    return datos_totales
+    return resultado_final
 
 
 # =========================
