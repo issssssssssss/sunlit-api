@@ -1,5 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from unidecode import unidecode
+
 import json
 import os
 
@@ -30,6 +32,7 @@ RUTA_JSON = "data/productos.json"
 def leer_json():
 
     if not os.path.exists(RUTA_JSON):
+
         return {
             "ultima_actualizacion": None,
             "productos": []
@@ -77,16 +80,23 @@ def producto(nombre: str):
         []
     )
 
+    nombre_normalizado = unidecode(
+        nombre.lower()
+    )
+
     filtrados = [
 
         item for item in productos
 
-        if nombre.lower()
-        in item["cultivo_base"].lower()
+        if nombre_normalizado
+        in unidecode(
+            item["cultivo_base"].lower()
+        )
 
     ]
 
     return {
+
         "ultima_actualizacion":
             datos.get(
                 "ultima_actualizacion"
@@ -94,4 +104,5 @@ def producto(nombre: str):
 
         "productos":
             filtrados
+
     }

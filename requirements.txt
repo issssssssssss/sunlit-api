@@ -3,3 +3,4 @@ uvicorn
 gunicorn
 selenium
 webdriver-manager
+unidecode
