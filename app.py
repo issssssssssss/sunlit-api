@@ -35,7 +35,7 @@ def leer_json():
 
         return {
             "ultima_actualizacion": None,
-            "productos": []
+            "cultivos": []
         }
 
     with open(
@@ -58,7 +58,7 @@ def home():
     }
 
 # =========================
-# TODOS LOS PRODUCTOS
+# TODOS LOS CULTIVOS
 # =========================
 
 @app.get("/productos")
@@ -67,7 +67,7 @@ def productos():
     return leer_json()
 
 # =========================
-# FILTRAR POR CULTIVO
+# FILTRAR CULTIVO
 # =========================
 
 @app.get("/producto/{nombre}")
@@ -75,8 +75,8 @@ def producto(nombre: str):
 
     datos = leer_json()
 
-    productos = datos.get(
-        "productos",
+    cultivos = datos.get(
+        "cultivos",
         []
     )
 
@@ -84,25 +84,54 @@ def producto(nombre: str):
         nombre.lower()
     )
 
-    filtrados = [
+    cultivo_encontrado = None
 
-        item for item in productos
+    for cultivo in cultivos:
 
-        if nombre_normalizado
-        in unidecode(
-            item["cultivo_base"].lower()
+        cultivo_normalizado = unidecode(
+
+            cultivo["cultivo"]
+            .lower()
+
         )
 
-    ]
+        if (
+            nombre_normalizado
+            in cultivo_normalizado
+        ):
 
-    return {
+            cultivo_encontrado = cultivo
+            break
 
-        "ultima_actualizacion":
-            datos.get(
-                "ultima_actualizacion"
-            ),
+    # =========================
+    # SI NO EXISTE
+    # =========================
 
-        "productos":
-            filtrados
+    if not cultivo_encontrado:
 
-    }
+        return {
+
+            "cultivo": nombre,
+
+            "ultima_actualizacion":
+                datos.get(
+                    "ultima_actualizacion"
+                ),
+
+            "precio_promedio": 0,
+
+            "total_mercados": 0,
+
+            "total_estados": 0,
+
+            "total_presentaciones": 0,
+
+            "mercados": []
+
+        }
+
+    # =========================
+    # RESPUESTA
+    # =========================
+
+    return cultivo_encontrado
