@@ -1,9 +1,9 @@
 {
-    "ultima_actualizacion": "05/09/2026 10:00",
+    "ultima_actualizacion": "06/09/2026 10:19",
     "cultivos": [
         {
             "cultivo": "Aguacate",
-            "ultima_actualizacion": "05/09/2026 09:57",
+            "ultima_actualizacion": "06/09/2026 10:15",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -12,7 +12,7 @@
         },
         {
             "cultivo": "Cebolla",
-            "ultima_actualizacion": "05/09/2026 09:58",
+            "ultima_actualizacion": "06/09/2026 10:16",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -21,7 +21,7 @@
         },
         {
             "cultivo": "Chile",
-            "ultima_actualizacion": "05/09/2026 09:59",
+            "ultima_actualizacion": "06/09/2026 10:17",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -30,7 +30,7 @@
         },
         {
             "cultivo": "Lechuga",
-            "ultima_actualizacion": "05/09/2026 09:59",
+            "ultima_actualizacion": "06/09/2026 10:18",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -39,7 +39,7 @@
         },
         {
             "cultivo": "Papa",
-            "ultima_actualizacion": "05/09/2026 10:00",
+            "ultima_actualizacion": "06/09/2026 10:19",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -48,7 +48,7 @@
         },
         {
             "cultivo": "Tomate",
-            "ultima_actualizacion": "05/09/2026 10:00",
+            "ultima_actualizacion": "06/09/2026 10:19",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -57,7 +57,7 @@
         },
         {
             "cultivo": "Zanahoria",
-            "ultima_actualizacion": "05/09/2026 10:00",
+            "ultima_actualizacion": "06/09/2026 10:19",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
