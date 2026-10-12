@@ -1,9 +1,9 @@
 {
-    "ultima_actualizacion": "11/10/2026 12:11",
+    "ultima_actualizacion": "12/10/2026 14:29",
     "cultivos": [
         {
             "cultivo": "Aguacate",
-            "ultima_actualizacion": "11/10/2026 12:06",
+            "ultima_actualizacion": "12/10/2026 14:25",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -12,7 +12,7 @@
         },
         {
             "cultivo": "Cebolla",
-            "ultima_actualizacion": "11/10/2026 12:07",
+            "ultima_actualizacion": "12/10/2026 14:26",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -21,16 +21,53 @@
         },
         {
             "cultivo": "Chile",
-            "ultima_actualizacion": "11/10/2026 12:09",
-            "precio_promedio": 0,
-            "total_mercados": 0,
-            "total_estados": 0,
-            "total_presentaciones": 0,
-            "mercados": []
+            "ultima_actualizacion": "12/10/2026 14:27",
+            "precio_promedio": 256.67,
+            "total_mercados": 3,
+            "total_estados": 3,
+            "total_presentaciones": 2,
+            "mercados": [
+                {
+                    "fecha": "12/10/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Kilogramo",
+                    "origen": "Chiapas",
+                    "estado_destino": "Baja California Sur",
+                    "lugar_destino": "Unión de Comerciantes de La Paz",
+                    "precio_min": 30.0,
+                    "precio_max": 30.0,
+                    "precio_frecuente": 30.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "12/10/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Arpilla de 30 kg.",
+                    "origen": "Jalisco",
+                    "estado_destino": "Guanajuato",
+                    "lugar_destino": "Central de Abasto de León",
+                    "precio_min": 660.0,
+                    "precio_max": 660.0,
+                    "precio_frecuente": 660.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "12/10/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Kilogramo",
+                    "origen": "Veracruz",
+                    "estado_destino": "Veracruz",
+                    "lugar_destino": "Central de Abasto de Jalapa",
+                    "precio_min": 70.0,
+                    "precio_max": 80.0,
+                    "precio_frecuente": 80.0,
+                    "observaciones": ""
+                }
+            ]
         },
         {
             "cultivo": "Lechuga",
-            "ultima_actualizacion": "11/10/2026 12:09",
+            "ultima_actualizacion": "12/10/2026 14:27",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -39,25 +76,75 @@
         },
         {
             "cultivo": "Papa",
-            "ultima_actualizacion": "11/10/2026 12:10",
-            "precio_promedio": 0,
-            "total_mercados": 0,
-            "total_estados": 0,
-            "total_presentaciones": 0,
-            "mercados": []
+            "ultima_actualizacion": "12/10/2026 14:28",
+            "precio_promedio": 35.0,
+            "total_mercados": 1,
+            "total_estados": 1,
+            "total_presentaciones": 1,
+            "mercados": [
+                {
+                    "fecha": "12/10/2026",
+                    "producto": "Papaya Roja",
+                    "presentacion": "Kilogramo",
+                    "origen": "Baja California",
+                    "estado_destino": "Baja California Sur",
+                    "lugar_destino": "Unión de Comerciantes de La Paz",
+                    "precio_min": 35.0,
+                    "precio_max": 35.0,
+                    "precio_frecuente": 35.0,
+                    "observaciones": ""
+                }
+            ]
         },
         {
             "cultivo": "Tomate",
-            "ultima_actualizacion": "11/10/2026 12:11",
-            "precio_promedio": 0,
-            "total_mercados": 0,
-            "total_estados": 0,
-            "total_presentaciones": 0,
-            "mercados": []
+            "ultima_actualizacion": "12/10/2026 14:29",
+            "precio_promedio": 98.33,
+            "total_mercados": 3,
+            "total_estados": 3,
+            "total_presentaciones": 2,
+            "mercados": [
+                {
+                    "fecha": "12/10/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Baja California Sur",
+                    "estado_destino": "Baja California Sur",
+                    "lugar_destino": "Unión de Comerciantes de La Paz",
+                    "precio_min": 25.0,
+                    "precio_max": 25.0,
+                    "precio_frecuente": 25.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "12/10/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Arpilla de 35 kg.",
+                    "origen": "Sinaloa",
+                    "estado_destino": "Guanajuato",
+                    "lugar_destino": "Central de Abasto de León",
+                    "precio_min": 245.0,
+                    "precio_max": 245.0,
+                    "precio_frecuente": 245.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "12/10/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Veracruz",
+                    "estado_destino": "Veracruz",
+                    "lugar_destino": "Central de Abasto de Jalapa",
+                    "precio_min": 20.0,
+                    "precio_max": 25.0,
+                    "precio_frecuente": 25.0,
+                    "observaciones": ""
+                }
+            ]
         },
         {
             "cultivo": "Zanahoria",
-            "ultima_actualizacion": "11/10/2026 12:11",
+            "ultima_actualizacion": "12/10/2026 14:29",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
