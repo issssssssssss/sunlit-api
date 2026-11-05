@@ -1,18 +1,31 @@
 {
-    "ultima_actualizacion": "04/11/2026 13:51",
+    "ultima_actualizacion": "05/11/2026 14:00",
     "cultivos": [
         {
             "cultivo": "Aguacate",
-            "ultima_actualizacion": "04/11/2026 13:46",
-            "precio_promedio": 0,
-            "total_mercados": 0,
-            "total_estados": 0,
-            "total_presentaciones": 0,
-            "mercados": []
+            "ultima_actualizacion": "05/11/2026 13:59",
+            "precio_promedio": 240.0,
+            "total_mercados": 1,
+            "total_estados": 1,
+            "total_presentaciones": 1,
+            "mercados": [
+                {
+                    "fecha": "05/11/2026",
+                    "producto": "Aguacate Pagua",
+                    "presentacion": "Caja de 8 kg.",
+                    "origen": "Yucatán",
+                    "estado_destino": "Quintana Roo",
+                    "lugar_destino": "Mercado de Chetumal, Quintana Roo",
+                    "precio_min": 240.0,
+                    "precio_max": 240.0,
+                    "precio_frecuente": 240.0,
+                    "observaciones": ""
+                }
+            ]
         },
         {
             "cultivo": "Cebolla",
-            "ultima_actualizacion": "04/11/2026 13:46",
+            "ultima_actualizacion": "05/11/2026 13:59",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -21,16 +34,65 @@
         },
         {
             "cultivo": "Chile",
-            "ultima_actualizacion": "04/11/2026 13:48",
-            "precio_promedio": 0,
-            "total_mercados": 0,
-            "total_estados": 0,
-            "total_presentaciones": 0,
-            "mercados": []
+            "ultima_actualizacion": "05/11/2026 13:59",
+            "precio_promedio": 339.0,
+            "total_mercados": 4,
+            "total_estados": 4,
+            "total_presentaciones": 3,
+            "mercados": [
+                {
+                    "fecha": "05/11/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Kilogramo",
+                    "origen": "Chiapas",
+                    "estado_destino": "Baja California Sur",
+                    "lugar_destino": "Unión de Comerciantes de La Paz",
+                    "precio_min": 38.0,
+                    "precio_max": 38.0,
+                    "precio_frecuente": 38.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "05/11/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Arpilla de 30 kg.",
+                    "origen": "Jalisco",
+                    "estado_destino": "Guanajuato",
+                    "lugar_destino": "Central de Abasto de León",
+                    "precio_min": 650.0,
+                    "precio_max": 650.0,
+                    "precio_frecuente": 650.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "05/11/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Kilogramo",
+                    "origen": "Yucatán",
+                    "estado_destino": "Quintana Roo",
+                    "lugar_destino": "Mercado de Chetumal, Quintana Roo",
+                    "precio_min": 43.0,
+                    "precio_max": 43.0,
+                    "precio_frecuente": 43.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "05/11/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Arpilla de 28 kg.",
+                    "origen": "Puebla",
+                    "estado_destino": "Tamaulipas",
+                    "lugar_destino": "Módulo de Abasto de Tampico, Madero y Altamira",
+                    "precio_min": 420.0,
+                    "precio_max": 625.0,
+                    "precio_frecuente": 625.0,
+                    "observaciones": ""
+                }
+            ]
         },
         {
             "cultivo": "Lechuga",
-            "ultima_actualizacion": "04/11/2026 13:49",
+            "ultima_actualizacion": "05/11/2026 14:00",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -39,25 +101,87 @@
         },
         {
             "cultivo": "Papa",
-            "ultima_actualizacion": "04/11/2026 13:50",
-            "precio_promedio": 0,
-            "total_mercados": 0,
-            "total_estados": 0,
-            "total_presentaciones": 0,
-            "mercados": []
+            "ultima_actualizacion": "05/11/2026 14:00",
+            "precio_promedio": 42.0,
+            "total_mercados": 1,
+            "total_estados": 1,
+            "total_presentaciones": 1,
+            "mercados": [
+                {
+                    "fecha": "05/11/2026",
+                    "producto": "Papaya Roja",
+                    "presentacion": "Kilogramo",
+                    "origen": "Baja California",
+                    "estado_destino": "Baja California Sur",
+                    "lugar_destino": "Unión de Comerciantes de La Paz",
+                    "precio_min": 42.0,
+                    "precio_max": 42.0,
+                    "precio_frecuente": 42.0,
+                    "observaciones": ""
+                }
+            ]
         },
         {
             "cultivo": "Tomate",
-            "ultima_actualizacion": "04/11/2026 13:50",
-            "precio_promedio": 0,
-            "total_mercados": 0,
-            "total_estados": 0,
-            "total_presentaciones": 0,
-            "mercados": []
+            "ultima_actualizacion": "05/11/2026 14:00",
+            "precio_promedio": 401.25,
+            "total_mercados": 4,
+            "total_estados": 4,
+            "total_presentaciones": 4,
+            "mercados": [
+                {
+                    "fecha": "05/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Baja California Sur",
+                    "estado_destino": "Baja California Sur",
+                    "lugar_destino": "Unión de Comerciantes de La Paz",
+                    "precio_min": 28.0,
+                    "precio_max": 28.0,
+                    "precio_frecuente": 28.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "05/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Arpilla de 35 kg.",
+                    "origen": "Sinaloa",
+                    "estado_destino": "Guanajuato",
+                    "lugar_destino": "Central de Abasto de León",
+                    "precio_min": 245.0,
+                    "precio_max": 245.0,
+                    "precio_frecuente": 245.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "05/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Caja de 22 kg.",
+                    "origen": "Yucatán",
+                    "estado_destino": "Quintana Roo",
+                    "lugar_destino": "Mercado de Chetumal, Quintana Roo",
+                    "precio_min": 1078.0,
+                    "precio_max": 1078.0,
+                    "precio_frecuente": 1078.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "05/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Caja de 16 kg.",
+                    "origen": "Puebla",
+                    "estado_destino": "Tamaulipas",
+                    "lugar_destino": "Módulo de Abasto de Tampico, Madero y Altamira",
+                    "precio_min": 220.0,
+                    "precio_max": 254.0,
+                    "precio_frecuente": 254.0,
+                    "observaciones": ""
+                }
+            ]
         },
         {
             "cultivo": "Zanahoria",
-            "ultima_actualizacion": "04/11/2026 13:51",
+            "ultima_actualizacion": "05/11/2026 14:00",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
