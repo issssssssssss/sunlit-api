@@ -1,9 +1,9 @@
 {
-    "ultima_actualizacion": "06/11/2026 13:46",
+    "ultima_actualizacion": "07/11/2026 12:32",
     "cultivos": [
         {
             "cultivo": "Aguacate",
-            "ultima_actualizacion": "06/11/2026 13:44",
+            "ultima_actualizacion": "07/11/2026 12:27",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -12,7 +12,7 @@
         },
         {
             "cultivo": "Cebolla",
-            "ultima_actualizacion": "06/11/2026 13:44",
+            "ultima_actualizacion": "07/11/2026 12:28",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -21,41 +21,16 @@
         },
         {
             "cultivo": "Chile",
-            "ultima_actualizacion": "06/11/2026 13:45",
-            "precio_promedio": 32.0,
-            "total_mercados": 2,
-            "total_estados": 2,
-            "total_presentaciones": 1,
-            "mercados": [
-                {
-                    "fecha": "06/11/2026",
-                    "producto": "Chile Serrano",
-                    "presentacion": "Kilogramo",
-                    "origen": "Chiapas",
-                    "estado_destino": "Baja California Sur",
-                    "lugar_destino": "Unión de Comerciantes de La Paz",
-                    "precio_min": 38.0,
-                    "precio_max": 38.0,
-                    "precio_frecuente": 38.0,
-                    "observaciones": ""
-                },
-                {
-                    "fecha": "06/11/2026",
-                    "producto": "Chile Serrano",
-                    "presentacion": "Kilogramo",
-                    "origen": "Jalisco",
-                    "estado_destino": "Colima",
-                    "lugar_destino": "Centros de distribución de Colima",
-                    "precio_min": 25.0,
-                    "precio_max": 26.0,
-                    "precio_frecuente": 26.0,
-                    "observaciones": ""
-                }
-            ]
+            "ultima_actualizacion": "07/11/2026 12:30",
+            "precio_promedio": 0,
+            "total_mercados": 0,
+            "total_estados": 0,
+            "total_presentaciones": 0,
+            "mercados": []
         },
         {
             "cultivo": "Lechuga",
-            "ultima_actualizacion": "06/11/2026 13:45",
+            "ultima_actualizacion": "07/11/2026 12:31",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -64,63 +39,25 @@
         },
         {
             "cultivo": "Papa",
-            "ultima_actualizacion": "06/11/2026 13:46",
-            "precio_promedio": 42.0,
-            "total_mercados": 1,
-            "total_estados": 1,
-            "total_presentaciones": 1,
-            "mercados": [
-                {
-                    "fecha": "06/11/2026",
-                    "producto": "Papaya Roja",
-                    "presentacion": "Kilogramo",
-                    "origen": "Baja California",
-                    "estado_destino": "Baja California Sur",
-                    "lugar_destino": "Unión de Comerciantes de La Paz",
-                    "precio_min": 42.0,
-                    "precio_max": 42.0,
-                    "precio_frecuente": 42.0,
-                    "observaciones": ""
-                }
-            ]
+            "ultima_actualizacion": "07/11/2026 12:32",
+            "precio_promedio": 0,
+            "total_mercados": 0,
+            "total_estados": 0,
+            "total_presentaciones": 0,
+            "mercados": []
         },
         {
             "cultivo": "Tomate",
-            "ultima_actualizacion": "06/11/2026 13:46",
-            "precio_promedio": 25.0,
-            "total_mercados": 2,
-            "total_estados": 2,
-            "total_presentaciones": 1,
-            "mercados": [
-                {
-                    "fecha": "06/11/2026",
-                    "producto": "Tomate Verde",
-                    "presentacion": "Kilogramo",
-                    "origen": "Baja California Sur",
-                    "estado_destino": "Baja California Sur",
-                    "lugar_destino": "Unión de Comerciantes de La Paz",
-                    "precio_min": 28.0,
-                    "precio_max": 28.0,
-                    "precio_frecuente": 28.0,
-                    "observaciones": ""
-                },
-                {
-                    "fecha": "06/11/2026",
-                    "producto": "Tomate Verde",
-                    "presentacion": "Kilogramo",
-                    "origen": "Jalisco",
-                    "estado_destino": "Colima",
-                    "lugar_destino": "Centros de distribución de Colima",
-                    "precio_min": 20.0,
-                    "precio_max": 22.0,
-                    "precio_frecuente": 22.0,
-                    "observaciones": ""
-                }
-            ]
+            "ultima_actualizacion": "07/11/2026 12:32",
+            "precio_promedio": 0,
+            "total_mercados": 0,
+            "total_estados": 0,
+            "total_presentaciones": 0,
+            "mercados": []
         },
         {
             "cultivo": "Zanahoria",
-            "ultima_actualizacion": "06/11/2026 13:46",
+            "ultima_actualizacion": "07/11/2026 12:32",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
