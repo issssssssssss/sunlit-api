@@ -1,9 +1,9 @@
 {
-    "ultima_actualizacion": "10/11/2026 14:20",
+    "ultima_actualizacion": "11/11/2026 13:33",
     "cultivos": [
         {
             "cultivo": "Aguacate",
-            "ultima_actualizacion": "10/11/2026 14:19",
+            "ultima_actualizacion": "11/11/2026 13:32",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -12,7 +12,7 @@
         },
         {
             "cultivo": "Cebolla",
-            "ultima_actualizacion": "10/11/2026 14:19",
+            "ultima_actualizacion": "11/11/2026 13:32",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -21,29 +21,16 @@
         },
         {
             "cultivo": "Chile",
-            "ultima_actualizacion": "10/11/2026 14:20",
-            "precio_promedio": 27.0,
-            "total_mercados": 1,
-            "total_estados": 1,
-            "total_presentaciones": 1,
-            "mercados": [
-                {
-                    "fecha": "10/11/2026",
-                    "producto": "Chile Serrano",
-                    "presentacion": "Kilogramo",
-                    "origen": "Jalisco",
-                    "estado_destino": "Colima",
-                    "lugar_destino": "Centros de distribución de Colima",
-                    "precio_min": 25.0,
-                    "precio_max": 27.0,
-                    "precio_frecuente": 27.0,
-                    "observaciones": ""
-                }
-            ]
+            "ultima_actualizacion": "11/11/2026 13:32",
+            "precio_promedio": 0,
+            "total_mercados": 0,
+            "total_estados": 0,
+            "total_presentaciones": 0,
+            "mercados": []
         },
         {
             "cultivo": "Lechuga",
-            "ultima_actualizacion": "10/11/2026 14:20",
+            "ultima_actualizacion": "11/11/2026 13:32",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -52,7 +39,7 @@
         },
         {
             "cultivo": "Papa",
-            "ultima_actualizacion": "10/11/2026 14:20",
+            "ultima_actualizacion": "11/11/2026 13:33",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -61,41 +48,16 @@
         },
         {
             "cultivo": "Tomate",
-            "ultima_actualizacion": "10/11/2026 14:20",
-            "precio_promedio": 211.0,
-            "total_mercados": 2,
-            "total_estados": 2,
-            "total_presentaciones": 2,
-            "mercados": [
-                {
-                    "fecha": "10/11/2026",
-                    "producto": "Tomate Verde",
-                    "presentacion": "Kilogramo",
-                    "origen": "Jalisco",
-                    "estado_destino": "Colima",
-                    "lugar_destino": "Centros de distribución de Colima",
-                    "precio_min": 20.0,
-                    "precio_max": 22.0,
-                    "precio_frecuente": 22.0,
-                    "observaciones": ""
-                },
-                {
-                    "fecha": "10/11/2026",
-                    "producto": "Tomate Verde",
-                    "presentacion": "Caja de 20 kg.",
-                    "origen": "Distrito Federal",
-                    "estado_destino": "Veracruz",
-                    "lugar_destino": "Mercado Malibrán",
-                    "precio_min": 350.0,
-                    "precio_max": 450.0,
-                    "precio_frecuente": 400.0,
-                    "observaciones": ""
-                }
-            ]
+            "ultima_actualizacion": "11/11/2026 13:33",
+            "precio_promedio": 0,
+            "total_mercados": 0,
+            "total_estados": 0,
+            "total_presentaciones": 0,
+            "mercados": []
         },
         {
             "cultivo": "Zanahoria",
-            "ultima_actualizacion": "10/11/2026 14:20",
+            "ultima_actualizacion": "11/11/2026 13:33",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
