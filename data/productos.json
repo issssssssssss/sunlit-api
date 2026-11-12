@@ -1,9 +1,9 @@
 {
-    "ultima_actualizacion": "11/11/2026 13:33",
+    "ultima_actualizacion": "12/11/2026 14:40",
     "cultivos": [
         {
             "cultivo": "Aguacate",
-            "ultima_actualizacion": "11/11/2026 13:32",
+            "ultima_actualizacion": "12/11/2026 14:37",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -12,7 +12,7 @@
         },
         {
             "cultivo": "Cebolla",
-            "ultima_actualizacion": "11/11/2026 13:32",
+            "ultima_actualizacion": "12/11/2026 14:38",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -21,7 +21,7 @@
         },
         {
             "cultivo": "Chile",
-            "ultima_actualizacion": "11/11/2026 13:32",
+            "ultima_actualizacion": "12/11/2026 14:39",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -30,7 +30,7 @@
         },
         {
             "cultivo": "Lechuga",
-            "ultima_actualizacion": "11/11/2026 13:32",
+            "ultima_actualizacion": "12/11/2026 14:39",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -39,7 +39,7 @@
         },
         {
             "cultivo": "Papa",
-            "ultima_actualizacion": "11/11/2026 13:33",
+            "ultima_actualizacion": "12/11/2026 14:40",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -48,16 +48,29 @@
         },
         {
             "cultivo": "Tomate",
-            "ultima_actualizacion": "11/11/2026 13:33",
-            "precio_promedio": 0,
-            "total_mercados": 0,
-            "total_estados": 0,
-            "total_presentaciones": 0,
-            "mercados": []
+            "ultima_actualizacion": "12/11/2026 14:40",
+            "precio_promedio": 400.0,
+            "total_mercados": 1,
+            "total_estados": 1,
+            "total_presentaciones": 1,
+            "mercados": [
+                {
+                    "fecha": "12/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Caja de 20 kg.",
+                    "origen": "Distrito Federal",
+                    "estado_destino": "Veracruz",
+                    "lugar_destino": "Mercado Malibrán",
+                    "precio_min": 370.0,
+                    "precio_max": 430.0,
+                    "precio_frecuente": 400.0,
+                    "observaciones": ""
+                }
+            ]
         },
         {
             "cultivo": "Zanahoria",
-            "ultima_actualizacion": "11/11/2026 13:33",
+            "ultima_actualizacion": "12/11/2026 14:40",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
