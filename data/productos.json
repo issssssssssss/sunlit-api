@@ -1,9 +1,9 @@
 {
-    "ultima_actualizacion": "16/11/2026 14:50",
+    "ultima_actualizacion": "17/11/2026 15:31",
     "cultivos": [
         {
             "cultivo": "Aguacate",
-            "ultima_actualizacion": "16/11/2026 14:47",
+            "ultima_actualizacion": "17/11/2026 15:29",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -12,7 +12,7 @@
         },
         {
             "cultivo": "Cebolla",
-            "ultima_actualizacion": "16/11/2026 14:47",
+            "ultima_actualizacion": "17/11/2026 15:29",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -21,25 +21,195 @@
         },
         {
             "cultivo": "Chile",
-            "ultima_actualizacion": "16/11/2026 14:49",
-            "precio_promedio": 0,
-            "total_mercados": 0,
-            "total_estados": 0,
-            "total_presentaciones": 0,
-            "mercados": []
+            "ultima_actualizacion": "17/11/2026 15:30",
+            "precio_promedio": 218.67,
+            "total_mercados": 12,
+            "total_estados": 11,
+            "total_presentaciones": 2,
+            "mercados": [
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Kilogramo",
+                    "origen": "Sinaloa",
+                    "estado_destino": "Aguascalientes",
+                    "lugar_destino": "Centro Comercial Agropecuario de Aguascalientes",
+                    "precio_min": 30.0,
+                    "precio_max": 34.0,
+                    "precio_frecuente": 32.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Kilogramo",
+                    "origen": "Nuevo León",
+                    "estado_destino": "Coahuila",
+                    "lugar_destino": "Central de Abasto de La Laguna, Torreón",
+                    "precio_min": 32.0,
+                    "precio_max": 35.0,
+                    "precio_frecuente": 33.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Kilogramo",
+                    "origen": "Jalisco",
+                    "estado_destino": "Colima",
+                    "lugar_destino": "Centros de distribución de Colima",
+                    "precio_min": 60.0,
+                    "precio_max": 61.0,
+                    "precio_frecuente": 61.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Kilogramo",
+                    "origen": "Distrito Federal",
+                    "estado_destino": "Guerrero",
+                    "lugar_destino": "Central de Abastos de Acapulco",
+                    "precio_min": 40.0,
+                    "precio_max": 40.0,
+                    "precio_frecuente": 40.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Arpilla de 30 kg.",
+                    "origen": "Distrito Federal",
+                    "estado_destino": "México",
+                    "lugar_destino": "Central de Abasto de Ecatepec",
+                    "precio_min": 1050.0,
+                    "precio_max": 1320.0,
+                    "precio_frecuente": 1200.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Arpilla de 30 kg.",
+                    "origen": "Jalisco",
+                    "estado_destino": "México",
+                    "lugar_destino": "Central de Abasto de Toluca",
+                    "precio_min": 900.0,
+                    "precio_max": 1050.0,
+                    "precio_frecuente": 1050.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Kilogramo",
+                    "origen": "Jalisco",
+                    "estado_destino": "Michoacán",
+                    "lugar_destino": "Mercado de Abasto de Morelia",
+                    "precio_min": 27.0,
+                    "precio_max": 28.0,
+                    "precio_frecuente": 28.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Kilogramo",
+                    "origen": "Puebla",
+                    "estado_destino": "Oaxaca",
+                    "lugar_destino": "Módulo de Abasto de Oaxaca",
+                    "precio_min": 23.0,
+                    "precio_max": 25.0,
+                    "precio_frecuente": 23.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Kilogramo",
+                    "origen": "Jalisco",
+                    "estado_destino": "Querétaro",
+                    "lugar_destino": "Mercado de Abasto de Querétaro",
+                    "precio_min": 36.0,
+                    "precio_max": 40.0,
+                    "precio_frecuente": 39.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Kilogramo",
+                    "origen": "Sinaloa",
+                    "estado_destino": "Sinaloa",
+                    "lugar_destino": "Central de Abasto de Culiacán",
+                    "precio_min": 40.0,
+                    "precio_max": 40.0,
+                    "precio_frecuente": 40.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Kilogramo",
+                    "origen": "Chihuahua",
+                    "estado_destino": "Sonora",
+                    "lugar_destino": "Central de Abasto de Cd. Obregón",
+                    "precio_min": 30.0,
+                    "precio_max": 35.0,
+                    "precio_frecuente": 33.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Kilogramo",
+                    "origen": "Nayarit",
+                    "estado_destino": "Zacatecas",
+                    "lugar_destino": "Mercado de Abasto de Zacatecas",
+                    "precio_min": 45.0,
+                    "precio_max": 45.0,
+                    "precio_frecuente": 45.0,
+                    "observaciones": ""
+                }
+            ]
         },
         {
             "cultivo": "Lechuga",
-            "ultima_actualizacion": "16/11/2026 14:49",
-            "precio_promedio": 0,
-            "total_mercados": 0,
-            "total_estados": 0,
-            "total_presentaciones": 0,
-            "mercados": []
+            "ultima_actualizacion": "17/11/2026 15:30",
+            "precio_promedio": 64.5,
+            "total_mercados": 2,
+            "total_estados": 2,
+            "total_presentaciones": 2,
+            "mercados": [
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Lechuga Romanita sin clasificacion",
+                    "presentacion": "Pieza",
+                    "origen": "Aguascalientes",
+                    "estado_destino": "Aguascalientes",
+                    "lugar_destino": "Centro Comercial Agropecuario de Aguascalientes",
+                    "precio_min": 7.0,
+                    "precio_max": 11.0,
+                    "precio_frecuente": 9.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Lechuga Romanita sin clasificacion",
+                    "presentacion": "Docena",
+                    "origen": "México",
+                    "estado_destino": "México",
+                    "lugar_destino": "Central de Abasto de Toluca",
+                    "precio_min": 120.0,
+                    "precio_max": 150.0,
+                    "precio_frecuente": 120.0,
+                    "observaciones": ""
+                }
+            ]
         },
         {
             "cultivo": "Papa",
-            "ultima_actualizacion": "16/11/2026 14:50",
+            "ultima_actualizacion": "17/11/2026 15:30",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -48,21 +218,215 @@
         },
         {
             "cultivo": "Tomate",
-            "ultima_actualizacion": "16/11/2026 14:50",
-            "precio_promedio": 0,
-            "total_mercados": 0,
-            "total_estados": 0,
-            "total_presentaciones": 0,
-            "mercados": []
+            "ultima_actualizacion": "17/11/2026 15:31",
+            "precio_promedio": 66.67,
+            "total_mercados": 12,
+            "total_estados": 11,
+            "total_presentaciones": 2,
+            "mercados": [
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Sinaloa",
+                    "estado_destino": "Aguascalientes",
+                    "lugar_destino": "Centro Comercial Agropecuario de Aguascalientes",
+                    "precio_min": 38.0,
+                    "precio_max": 42.0,
+                    "precio_frecuente": 40.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Sinaloa",
+                    "estado_destino": "Coahuila",
+                    "lugar_destino": "Central de Abasto de La Laguna, Torreón",
+                    "precio_min": 35.0,
+                    "precio_max": 42.0,
+                    "precio_frecuente": 38.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Jalisco",
+                    "estado_destino": "Colima",
+                    "lugar_destino": "Centros de distribución de Colima",
+                    "precio_min": 35.0,
+                    "precio_max": 38.0,
+                    "precio_frecuente": 38.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Puebla",
+                    "estado_destino": "Guerrero",
+                    "lugar_destino": "Central de Abastos de Acapulco",
+                    "precio_min": 55.0,
+                    "precio_max": 55.0,
+                    "precio_frecuente": 55.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Aguascalientes",
+                    "estado_destino": "México",
+                    "lugar_destino": "Central de Abasto de Ecatepec",
+                    "precio_min": 34.0,
+                    "precio_max": 37.0,
+                    "precio_frecuente": 35.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "México",
+                    "estado_destino": "México",
+                    "lugar_destino": "Central de Abasto de Toluca",
+                    "precio_min": 30.0,
+                    "precio_max": 35.0,
+                    "precio_frecuente": 35.0,
+                    "observaciones": "TOMATE MANZANO"
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Oaxaca",
+                    "estado_destino": "Oaxaca",
+                    "lugar_destino": "Módulo de Abasto de Oaxaca",
+                    "precio_min": 27.0,
+                    "precio_max": 30.0,
+                    "precio_frecuente": 27.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Jalisco",
+                    "estado_destino": "Querétaro",
+                    "lugar_destino": "Mercado de Abasto de Querétaro",
+                    "precio_min": 29.0,
+                    "precio_max": 32.0,
+                    "precio_frecuente": 32.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Jalisco",
+                    "estado_destino": "Sinaloa",
+                    "lugar_destino": "Central de Abasto de Culiacán",
+                    "precio_min": 25.0,
+                    "precio_max": 25.0,
+                    "precio_frecuente": 25.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Jalisco",
+                    "estado_destino": "Sonora",
+                    "lugar_destino": "Central de Abasto de Cd. Obregón",
+                    "precio_min": 37.0,
+                    "precio_max": 40.0,
+                    "precio_frecuente": 37.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Caja de 20 kg.",
+                    "origen": "Distrito Federal",
+                    "estado_destino": "Veracruz",
+                    "lugar_destino": "Mercado Malibrán",
+                    "precio_min": 370.0,
+                    "precio_max": 430.0,
+                    "precio_frecuente": 400.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Jalisco",
+                    "estado_destino": "Zacatecas",
+                    "lugar_destino": "Mercado de Abasto de Zacatecas",
+                    "precio_min": 38.0,
+                    "precio_max": 38.0,
+                    "precio_frecuente": 38.0,
+                    "observaciones": ""
+                }
+            ]
         },
         {
             "cultivo": "Zanahoria",
-            "ultima_actualizacion": "16/11/2026 14:50",
-            "precio_promedio": 0,
-            "total_mercados": 0,
-            "total_estados": 0,
-            "total_presentaciones": 0,
-            "mercados": []
+            "ultima_actualizacion": "17/11/2026 15:31",
+            "precio_promedio": 135.0,
+            "total_mercados": 4,
+            "total_estados": 3,
+            "total_presentaciones": 4,
+            "mercados": [
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Zanahoria polvo",
+                    "presentacion": "Arpilla de 20 kg.",
+                    "origen": "Zacatecas",
+                    "estado_destino": "Aguascalientes",
+                    "lugar_destino": "Centro Comercial Agropecuario de Aguascalientes",
+                    "precio_min": 98.0,
+                    "precio_max": 102.0,
+                    "precio_frecuente": 100.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Zanahoria polvo",
+                    "presentacion": "Arpilla de 24 kg.",
+                    "origen": "Distrito Federal",
+                    "estado_destino": "México",
+                    "lugar_destino": "Central de Abasto de Ecatepec",
+                    "precio_min": 170.0,
+                    "precio_max": 190.0,
+                    "precio_frecuente": 180.0,
+                    "observaciones": "BOLSA DE 23KG."
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Zanahoria polvo",
+                    "presentacion": "Arpilla de 23 kg.",
+                    "origen": "México",
+                    "estado_destino": "México",
+                    "lugar_destino": "Central de Abasto de Toluca",
+                    "precio_min": 140.0,
+                    "precio_max": 150.0,
+                    "precio_frecuente": 140.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "17/11/2026",
+                    "producto": "Zanahoria polvo",
+                    "presentacion": "Arpilla de 22 kg.",
+                    "origen": "Guanajuato",
+                    "estado_destino": "Michoacán",
+                    "lugar_destino": "Mercado de Abasto de Morelia",
+                    "precio_min": 100.0,
+                    "precio_max": 120.0,
+                    "precio_frecuente": 120.0,
+                    "observaciones": ""
+                }
+            ]
         }
     ]
 }
