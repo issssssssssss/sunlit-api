@@ -1,18 +1,31 @@
 {
-    "ultima_actualizacion": "18/11/2026 15:08",
+    "ultima_actualizacion": "19/11/2026 15:20",
     "cultivos": [
         {
             "cultivo": "Aguacate",
-            "ultima_actualizacion": "18/11/2026 15:05",
-            "precio_promedio": 0,
-            "total_mercados": 0,
-            "total_estados": 0,
-            "total_presentaciones": 0,
-            "mercados": []
+            "ultima_actualizacion": "19/11/2026 15:15",
+            "precio_promedio": 600.0,
+            "total_mercados": 1,
+            "total_estados": 1,
+            "total_presentaciones": 1,
+            "mercados": [
+                {
+                    "fecha": "19/11/2026",
+                    "producto": "Aguacate Pagua",
+                    "presentacion": "Caja de 20 kg.",
+                    "origen": "Yucatán",
+                    "estado_destino": "Yucatán",
+                    "lugar_destino": "Central de Abasto de Mérida",
+                    "precio_min": 600.0,
+                    "precio_max": 600.0,
+                    "precio_frecuente": 600.0,
+                    "observaciones": ""
+                }
+            ]
         },
         {
             "cultivo": "Cebolla",
-            "ultima_actualizacion": "18/11/2026 15:05",
+            "ultima_actualizacion": "19/11/2026 15:15",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -21,41 +34,41 @@
         },
         {
             "cultivo": "Chile",
-            "ultima_actualizacion": "18/11/2026 15:06",
-            "precio_promedio": 30.0,
+            "ultima_actualizacion": "19/11/2026 15:18",
+            "precio_promedio": 135.0,
             "total_mercados": 2,
             "total_estados": 2,
             "total_presentaciones": 1,
             "mercados": [
                 {
-                    "fecha": "18/11/2026",
-                    "producto": "Chile Serrano",
+                    "fecha": "19/11/2026",
+                    "producto": "Chile Puya seco",
                     "presentacion": "Kilogramo",
-                    "origen": "Sinaloa",
+                    "origen": "Aguascalientes",
                     "estado_destino": "Aguascalientes",
                     "lugar_destino": "Centro Comercial Agropecuario de Aguascalientes",
-                    "precio_min": 30.0,
-                    "precio_max": 34.0,
-                    "precio_frecuente": 32.0,
+                    "precio_min": 132.0,
+                    "precio_max": 137.0,
+                    "precio_frecuente": 135.0,
                     "observaciones": ""
                 },
                 {
-                    "fecha": "18/11/2026",
-                    "producto": "Chile Serrano",
+                    "fecha": "19/11/2026",
+                    "producto": "Chile Puya seco",
                     "presentacion": "Kilogramo",
-                    "origen": "Jalisco",
-                    "estado_destino": "Michoacán",
-                    "lugar_destino": "Mercado de Abasto de Morelia",
-                    "precio_min": 27.0,
-                    "precio_max": 28.0,
-                    "precio_frecuente": 28.0,
+                    "origen": "Zacatecas",
+                    "estado_destino": "Querétaro",
+                    "lugar_destino": "Mercado de Abasto de Querétaro",
+                    "precio_min": 125.0,
+                    "precio_max": 135.0,
+                    "precio_frecuente": 135.0,
                     "observaciones": ""
                 }
             ]
         },
         {
             "cultivo": "Lechuga",
-            "ultima_actualizacion": "18/11/2026 15:07",
+            "ultima_actualizacion": "19/11/2026 15:19",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -64,23 +77,36 @@
         },
         {
             "cultivo": "Papa",
-            "ultima_actualizacion": "18/11/2026 15:08",
-            "precio_promedio": 0,
-            "total_mercados": 0,
-            "total_estados": 0,
-            "total_presentaciones": 0,
-            "mercados": []
+            "ultima_actualizacion": "19/11/2026 15:20",
+            "precio_promedio": 42.0,
+            "total_mercados": 1,
+            "total_estados": 1,
+            "total_presentaciones": 1,
+            "mercados": [
+                {
+                    "fecha": "19/11/2026",
+                    "producto": "Papaya Roja",
+                    "presentacion": "Kilogramo",
+                    "origen": "Baja California",
+                    "estado_destino": "Baja California Sur",
+                    "lugar_destino": "Unión de Comerciantes de La Paz",
+                    "precio_min": 42.0,
+                    "precio_max": 42.0,
+                    "precio_frecuente": 42.0,
+                    "observaciones": ""
+                }
+            ]
         },
         {
             "cultivo": "Tomate",
-            "ultima_actualizacion": "18/11/2026 15:08",
-            "precio_promedio": 220.0,
-            "total_mercados": 2,
-            "total_estados": 2,
-            "total_presentaciones": 2,
+            "ultima_actualizacion": "19/11/2026 15:20",
+            "precio_promedio": 100.25,
+            "total_mercados": 8,
+            "total_estados": 7,
+            "total_presentaciones": 3,
             "mercados": [
                 {
-                    "fecha": "18/11/2026",
+                    "fecha": "19/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Kilogramo",
                     "origen": "Sinaloa",
@@ -92,7 +118,79 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "18/11/2026",
+                    "fecha": "19/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Baja California Sur",
+                    "estado_destino": "Baja California Sur",
+                    "lugar_destino": "Unión de Comerciantes de La Paz",
+                    "precio_min": 25.0,
+                    "precio_max": 25.0,
+                    "precio_frecuente": 25.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "19/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Arpilla de 35 kg.",
+                    "origen": "Sinaloa",
+                    "estado_destino": "Guanajuato",
+                    "lugar_destino": "Central de Abasto de León",
+                    "precio_min": 245.0,
+                    "precio_max": 245.0,
+                    "precio_frecuente": 245.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "19/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Nayarit",
+                    "estado_destino": "Nayarit",
+                    "lugar_destino": "Mercado de abasto 'Adolfo López Mateos' de Tepic",
+                    "precio_min": 18.0,
+                    "precio_max": 20.0,
+                    "precio_frecuente": 19.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "19/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Nayarit",
+                    "estado_destino": "Nayarit",
+                    "lugar_destino": "Nayarabastos de Tepic",
+                    "precio_min": 19.0,
+                    "precio_max": 21.0,
+                    "precio_frecuente": 20.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "19/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Guanajuato",
+                    "estado_destino": "Querétaro",
+                    "lugar_destino": "Mercado de Abasto de Querétaro",
+                    "precio_min": 25.0,
+                    "precio_max": 28.0,
+                    "precio_frecuente": 28.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "19/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Jalisco",
+                    "estado_destino": "Sinaloa",
+                    "lugar_destino": "Central de Abasto de Culiacán",
+                    "precio_min": 25.0,
+                    "precio_max": 25.0,
+                    "precio_frecuente": 25.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "19/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Caja de 20 kg.",
                     "origen": "Distrito Federal",
@@ -107,14 +205,14 @@
         },
         {
             "cultivo": "Zanahoria",
-            "ultima_actualizacion": "18/11/2026 15:08",
-            "precio_promedio": 110.0,
-            "total_mercados": 2,
-            "total_estados": 2,
-            "total_presentaciones": 2,
+            "ultima_actualizacion": "19/11/2026 15:20",
+            "precio_promedio": 100.0,
+            "total_mercados": 1,
+            "total_estados": 1,
+            "total_presentaciones": 1,
             "mercados": [
                 {
-                    "fecha": "18/11/2026",
+                    "fecha": "19/11/2026",
                     "producto": "Zanahoria polvo",
                     "presentacion": "Arpilla de 20 kg.",
                     "origen": "Zacatecas",
@@ -123,18 +221,6 @@
                     "precio_min": 98.0,
                     "precio_max": 102.0,
                     "precio_frecuente": 100.0,
-                    "observaciones": ""
-                },
-                {
-                    "fecha": "18/11/2026",
-                    "producto": "Zanahoria polvo",
-                    "presentacion": "Arpilla de 22 kg.",
-                    "origen": "Guanajuato",
-                    "estado_destino": "Michoacán",
-                    "lugar_destino": "Mercado de Abasto de Morelia",
-                    "precio_min": 100.0,
-                    "precio_max": 120.0,
-                    "precio_frecuente": 120.0,
                     "observaciones": ""
                 }
             ]
