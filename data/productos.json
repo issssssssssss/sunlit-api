@@ -1,16 +1,16 @@
 {
-    "ultima_actualizacion": "23/11/2026 17:26",
+    "ultima_actualizacion": "24/11/2026 16:59",
     "cultivos": [
         {
             "cultivo": "Aguacate",
-            "ultima_actualizacion": "23/11/2026 17:22",
-            "precio_promedio": 490.0,
+            "ultima_actualizacion": "24/11/2026 16:57",
+            "precio_promedio": 373.33,
             "total_mercados": 3,
             "total_estados": 2,
             "total_presentaciones": 2,
             "mercados": [
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Aguacate Pagua",
                     "presentacion": "Caja de 8 kg.",
                     "origen": "Yucatán",
@@ -22,34 +22,34 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Aguacate Pagua",
                     "presentacion": "Caja de 20 kg.",
                     "origen": "Yucatán",
                     "estado_destino": "Yucatán",
                     "lugar_destino": "Central de Abasto de Mérida",
-                    "precio_min": 600.0,
-                    "precio_max": 600.0,
-                    "precio_frecuente": 600.0,
+                    "precio_min": 450.0,
+                    "precio_max": 450.0,
+                    "precio_frecuente": 450.0,
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Aguacate Pagua",
                     "presentacion": "Caja de 20 kg.",
                     "origen": "Yucatán",
                     "estado_destino": "Yucatán",
                     "lugar_destino": "Mercado \"Casa del Pueblo\"",
-                    "precio_min": 600.0,
-                    "precio_max": 600.0,
-                    "precio_frecuente": 600.0,
+                    "precio_min": 400.0,
+                    "precio_max": 400.0,
+                    "precio_frecuente": 400.0,
                     "observaciones": ""
                 }
             ]
         },
         {
             "cultivo": "Cebolla",
-            "ultima_actualizacion": "23/11/2026 17:23",
+            "ultima_actualizacion": "24/11/2026 16:57",
             "precio_promedio": 0,
             "total_mercados": 0,
             "total_estados": 0,
@@ -58,14 +58,14 @@
         },
         {
             "cultivo": "Chile",
-            "ultima_actualizacion": "23/11/2026 17:24",
-            "precio_promedio": 412.6,
-            "total_mercados": 31,
+            "ultima_actualizacion": "24/11/2026 16:58",
+            "precio_promedio": 398.69,
+            "total_mercados": 29,
             "total_estados": 25,
             "total_presentaciones": 5,
             "mercados": [
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Kilogramo",
                     "origen": "Sinaloa",
@@ -77,7 +77,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Kilogramo",
                     "origen": "Chiapas",
@@ -89,31 +89,31 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Kilogramo",
                     "origen": "Nuevo León",
                     "estado_destino": "Coahuila",
                     "lugar_destino": "Central de Abasto de La Laguna, Torreón",
-                    "precio_min": 32.0,
-                    "precio_max": 35.0,
-                    "precio_frecuente": 33.0,
+                    "precio_min": 36.0,
+                    "precio_max": 40.0,
+                    "precio_frecuente": 38.0,
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
-                    "presentacion": "Arpilla de 20 kg.",
-                    "origen": "Sinaloa",
-                    "estado_destino": "Chihuahua",
-                    "lugar_destino": "Central de Abasto de Chihuahua",
-                    "precio_min": 600.0,
-                    "precio_max": 780.0,
-                    "precio_frecuente": 600.0,
+                    "presentacion": "Kilogramo",
+                    "origen": "Jalisco",
+                    "estado_destino": "Colima",
+                    "lugar_destino": "Centros de distribución de Colima",
+                    "precio_min": 60.0,
+                    "precio_max": 62.0,
+                    "precio_frecuente": 62.0,
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Kilogramo",
                     "origen": "Sonora",
@@ -125,7 +125,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Arpilla de 30 kg.",
                     "origen": "San Luis Potosí",
@@ -137,19 +137,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
-                    "producto": "Chile Serrano",
-                    "presentacion": "Kilogramo",
-                    "origen": "Nuevo León",
-                    "estado_destino": "Durango",
-                    "lugar_destino": "Centro de Distribución y Abasto de Gómez Palacio",
-                    "precio_min": 23.9,
-                    "precio_max": 27.9,
-                    "precio_frecuente": 25.5,
-                    "observaciones": ""
-                },
-                {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Arpilla de 30 kg.",
                     "origen": "Jalisco",
@@ -161,7 +149,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Kilogramo",
                     "origen": "Distrito Federal",
@@ -173,19 +161,31 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Arpilla de 30 kg.",
+                    "origen": "México",
+                    "estado_destino": "Hidalgo",
+                    "lugar_destino": "Central de Abasto de Pachuca",
+                    "precio_min": 800.0,
+                    "precio_max": 900.0,
+                    "precio_frecuente": 800.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Arpilla de 30 kg.",
                     "origen": "Jalisco",
                     "estado_destino": "Jalisco",
                     "lugar_destino": "Mercado de Abasto de Guadalajara",
-                    "precio_min": 1350.0,
-                    "precio_max": 1420.0,
-                    "precio_frecuente": 1385.0,
+                    "precio_min": 1200.0,
+                    "precio_max": 1350.0,
+                    "precio_frecuente": 1275.0,
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Arpilla de 30 kg.",
                     "origen": "Jalisco",
@@ -197,7 +197,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Arpilla de 30 kg.",
                     "origen": "Distrito Federal",
@@ -209,19 +209,19 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Arpilla de 30 kg.",
                     "origen": "Jalisco",
                     "estado_destino": "México",
                     "lugar_destino": "Central de Abasto de Toluca",
                     "precio_min": 900.0,
-                    "precio_max": 1140.0,
-                    "precio_frecuente": 1140.0,
+                    "precio_max": 1080.0,
+                    "precio_frecuente": 1050.0,
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Kilogramo",
                     "origen": "Jalisco",
@@ -233,19 +233,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
-                    "producto": "Chile Serrano",
-                    "presentacion": "Kilogramo",
-                    "origen": "Zacatecas",
-                    "estado_destino": "Morelos",
-                    "lugar_destino": "Mercado \"Adolfo López Mateos\" de Cuernavaca",
-                    "precio_min": 34.0,
-                    "precio_max": 36.0,
-                    "precio_frecuente": 36.0,
-                    "observaciones": ""
-                },
-                {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Kilogramo",
                     "origen": "Nayarit",
@@ -257,7 +245,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Kilogramo",
                     "origen": "Nayarit",
@@ -269,19 +257,31 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Kilogramo",
                     "origen": "Sinaloa",
                     "estado_destino": "Nuevo León",
                     "lugar_destino": "Mercado de Abasto \"Estrella\" de San Nicolás de los Garza",
-                    "precio_min": 35.0,
-                    "precio_max": 40.0,
-                    "precio_frecuente": 38.0,
+                    "precio_min": 43.0,
+                    "precio_max": 47.0,
+                    "precio_frecuente": 45.0,
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
+                    "producto": "Chile Serrano",
+                    "presentacion": "Kilogramo",
+                    "origen": "Puebla",
+                    "estado_destino": "Oaxaca",
+                    "lugar_destino": "Módulo de Abasto de Oaxaca",
+                    "precio_min": 22.0,
+                    "precio_max": 23.0,
+                    "precio_frecuente": 23.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Arpilla de 20 kg.",
                     "origen": "Nayarit",
@@ -293,19 +293,19 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Kilogramo",
                     "origen": "Jalisco",
                     "estado_destino": "Querétaro",
                     "lugar_destino": "Mercado de Abasto de Querétaro",
-                    "precio_min": 43.0,
+                    "precio_min": 45.0,
                     "precio_max": 48.0,
                     "precio_frecuente": 47.0,
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Kilogramo",
                     "origen": "Yucatán",
@@ -317,7 +317,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Kilogramo",
                     "origen": "Zacatecas",
@@ -329,7 +329,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Kilogramo",
                     "origen": "Sinaloa",
@@ -341,19 +341,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
-                    "producto": "Chile Serrano",
-                    "presentacion": "Arpilla de 30 kg.",
-                    "origen": "Sinaloa",
-                    "estado_destino": "Sinaloa",
-                    "lugar_destino": "Zona de Abasto de Mazatlán",
-                    "precio_min": 1230.0,
-                    "precio_max": 1230.0,
-                    "precio_frecuente": 1230.0,
-                    "observaciones": ""
-                },
-                {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Kilogramo",
                     "origen": "Chihuahua",
@@ -365,19 +353,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
-                    "producto": "Chile Serrano",
-                    "presentacion": "Kilogramo",
-                    "origen": "Puebla",
-                    "estado_destino": "Tabasco",
-                    "lugar_destino": "Central de Abasto de Villahermosa",
-                    "precio_min": 42.0,
-                    "precio_max": 55.0,
-                    "precio_frecuente": 49.0,
-                    "observaciones": ""
-                },
-                {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Caja de 20 kg.",
                     "origen": "Nuevo León",
@@ -389,7 +365,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Arpilla de 28 kg.",
                     "origen": "Puebla",
@@ -401,7 +377,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Kilogramo",
                     "origen": "Veracruz",
@@ -413,19 +389,19 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Kilogramo",
                     "origen": "Distrito Federal",
                     "estado_destino": "Yucatán",
                     "lugar_destino": "Central de Abasto de Mérida",
-                    "precio_min": 40.0,
-                    "precio_max": 40.0,
-                    "precio_frecuente": 40.0,
+                    "precio_min": 55.0,
+                    "precio_max": 55.0,
+                    "precio_frecuente": 55.0,
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Chile Serrano",
                     "presentacion": "Kilogramo",
                     "origen": "Nayarit",
@@ -440,14 +416,14 @@
         },
         {
             "cultivo": "Lechuga",
-            "ultima_actualizacion": "23/11/2026 17:24",
-            "precio_promedio": 215.0,
-            "total_mercados": 4,
-            "total_estados": 4,
+            "ultima_actualizacion": "24/11/2026 16:58",
+            "precio_promedio": 126.0,
+            "total_mercados": 3,
+            "total_estados": 3,
             "total_presentaciones": 3,
             "mercados": [
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Lechuga Romanita sin clasificacion",
                     "presentacion": "Pieza",
                     "origen": "Aguascalientes",
@@ -459,19 +435,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
-                    "producto": "Lechuga Romanita sin clasificacion",
-                    "presentacion": "Caja de 24 pzas.",
-                    "origen": "Sinaloa",
-                    "estado_destino": "Chihuahua",
-                    "lugar_destino": "Central de Abasto de Chihuahua",
-                    "precio_min": 432.0,
-                    "precio_max": 504.0,
-                    "precio_frecuente": 432.0,
-                    "observaciones": ""
-                },
-                {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Lechuga Romanita sin clasificacion",
                     "presentacion": "Docena",
                     "origen": "México",
@@ -483,29 +447,29 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Lechuga Romanita sin clasificacion",
                     "presentacion": "Caja de 24 pzas.",
                     "origen": "Zacatecas",
                     "estado_destino": "Nuevo León",
                     "lugar_destino": "Mercado de Abasto \"Estrella\" de San Nicolás de los Garza",
-                    "precio_min": 280.0,
-                    "precio_max": 320.0,
-                    "precio_frecuente": 300.0,
+                    "precio_min": 230.0,
+                    "precio_max": 280.0,
+                    "precio_frecuente": 250.0,
                     "observaciones": ""
                 }
             ]
         },
         {
             "cultivo": "Papa",
-            "ultima_actualizacion": "23/11/2026 17:25",
+            "ultima_actualizacion": "24/11/2026 16:59",
             "precio_promedio": 42.0,
             "total_mercados": 1,
             "total_estados": 1,
             "total_presentaciones": 1,
             "mercados": [
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Papaya Roja",
                     "presentacion": "Kilogramo",
                     "origen": "Baja California",
@@ -520,14 +484,14 @@
         },
         {
             "cultivo": "Tomate",
-            "ultima_actualizacion": "23/11/2026 17:26",
-            "precio_promedio": 293.89,
-            "total_mercados": 34,
-            "total_estados": 25,
-            "total_presentaciones": 10,
+            "ultima_actualizacion": "24/11/2026 16:59",
+            "precio_promedio": 259.53,
+            "total_mercados": 32,
+            "total_estados": 24,
+            "total_presentaciones": 8,
             "mercados": [
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Kilogramo",
                     "origen": "Sinaloa",
@@ -539,7 +503,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Kilogramo",
                     "origen": "Baja California Sur",
@@ -551,31 +515,43 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Kilogramo",
                     "origen": "Sinaloa",
                     "estado_destino": "Coahuila",
                     "lugar_destino": "Central de Abasto de La Laguna, Torreón",
                     "precio_min": 35.0,
-                    "precio_max": 42.0,
+                    "precio_max": 45.0,
+                    "precio_frecuente": 40.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "24/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Jalisco",
+                    "estado_destino": "Colima",
+                    "lugar_destino": "Centros de distribución de Colima",
+                    "precio_min": 35.0,
+                    "precio_max": 38.0,
                     "precio_frecuente": 38.0,
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Kilogramo",
                     "origen": "Chiapas",
                     "estado_destino": "Chiapas",
                     "lugar_destino": "Central de Abasto de Tuxtla Gutiérrez",
-                    "precio_min": 22.0,
-                    "precio_max": 25.0,
-                    "precio_frecuente": 22.0,
+                    "precio_min": 26.0,
+                    "precio_max": 30.0,
+                    "precio_frecuente": 26.0,
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Kilogramo",
                     "origen": "Jalisco",
@@ -587,31 +563,19 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Kilogramo",
                     "origen": "Michoacán",
                     "estado_destino": "DF",
                     "lugar_destino": "Central de Abasto de Iztapalapa DF",
-                    "precio_min": 23.0,
-                    "precio_max": 27.0,
-                    "precio_frecuente": 25.0,
+                    "precio_min": 24.0,
+                    "precio_max": 28.0,
+                    "precio_frecuente": 26.0,
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
-                    "producto": "Tomate Verde",
-                    "presentacion": "Kilogramo",
-                    "origen": "Sinaloa",
-                    "estado_destino": "Durango",
-                    "lugar_destino": "Centro de Distribución y Abasto de Gómez Palacio",
-                    "precio_min": 53.0,
-                    "precio_max": 75.0,
-                    "precio_frecuente": 62.5,
-                    "observaciones": ""
-                },
-                {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Arpilla de 35 kg.",
                     "origen": "Sinaloa",
@@ -623,7 +587,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Kilogramo",
                     "origen": "Puebla",
@@ -635,7 +599,19 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Puebla",
+                    "estado_destino": "Hidalgo",
+                    "lugar_destino": "Central de Abasto de Pachuca",
+                    "precio_min": 15.0,
+                    "precio_max": 17.0,
+                    "precio_frecuente": 15.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Arpilla de 30 kg.",
                     "origen": "Jalisco",
@@ -647,19 +623,19 @@
                     "observaciones": "SIN CASCARA"
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Arpilla de 30 kg.",
                     "origen": "Zacatecas",
                     "estado_destino": "Jalisco",
                     "lugar_destino": "Mercado de Abasto de Guadalajara",
-                    "precio_min": 750.0,
+                    "precio_min": 810.0,
                     "precio_max": 840.0,
-                    "precio_frecuente": 795.0,
+                    "precio_frecuente": 825.0,
                     "observaciones": "CON CASCARA"
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Arpilla de 30 kg.",
                     "origen": "Jalisco",
@@ -668,10 +644,10 @@
                     "precio_min": 975.0,
                     "precio_max": 975.0,
                     "precio_frecuente": 975.0,
-                    "observaciones": "SIN CASCARA"
+                    "observaciones": "SIN CACARA"
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Arpilla de 30 kg.",
                     "origen": "Sinaloa",
@@ -683,7 +659,7 @@
                     "observaciones": "CON CASCARA"
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Kilogramo",
                     "origen": "Aguascalientes",
@@ -695,31 +671,19 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Kilogramo",
                     "origen": "México",
                     "estado_destino": "México",
                     "lugar_destino": "Central de Abasto de Toluca",
-                    "precio_min": 35.0,
-                    "precio_max": 40.0,
-                    "precio_frecuente": 38.0,
+                    "precio_min": 30.0,
+                    "precio_max": 35.0,
+                    "precio_frecuente": 35.0,
                     "observaciones": "TOMATE MANZANO"
                 },
                 {
-                    "fecha": "23/11/2026",
-                    "producto": "Tomate Verde",
-                    "presentacion": "Kilogramo",
-                    "origen": "Morelos",
-                    "estado_destino": "Morelos",
-                    "lugar_destino": "Mercado \"Adolfo López Mateos\" de Cuernavaca",
-                    "precio_min": 28.0,
-                    "precio_max": 30.0,
-                    "precio_frecuente": 30.0,
-                    "observaciones": ""
-                },
-                {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Kilogramo",
                     "origen": "Nayarit",
@@ -731,7 +695,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Kilogramo",
                     "origen": "Nayarit",
@@ -743,19 +707,31 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Kilogramo",
                     "origen": "Nuevo León",
                     "estado_destino": "Nuevo León",
                     "lugar_destino": "Mercado de Abasto \"Estrella\" de San Nicolás de los Garza",
-                    "precio_min": 36.0,
-                    "precio_max": 40.0,
-                    "precio_frecuente": 38.0,
+                    "precio_min": 30.0,
+                    "precio_max": 35.0,
+                    "precio_frecuente": 32.0,
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
+                    "producto": "Tomate Verde",
+                    "presentacion": "Kilogramo",
+                    "origen": "Oaxaca",
+                    "estado_destino": "Oaxaca",
+                    "lugar_destino": "Módulo de Abasto de Oaxaca",
+                    "precio_min": 28.0,
+                    "precio_max": 30.0,
+                    "precio_frecuente": 28.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Arpilla de 38 kg.",
                     "origen": "Nayarit",
@@ -767,19 +743,19 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Kilogramo",
                     "origen": "Guanajuato",
                     "estado_destino": "Querétaro",
                     "lugar_destino": "Mercado de Abasto de Querétaro",
-                    "precio_min": 35.0,
-                    "precio_max": 37.0,
-                    "precio_frecuente": 36.0,
+                    "precio_min": 25.0,
+                    "precio_max": 32.0,
+                    "precio_frecuente": 28.0,
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Caja de 22 kg.",
                     "origen": "Yucatán",
@@ -791,7 +767,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Kilogramo",
                     "origen": "México",
@@ -803,31 +779,19 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Kilogramo",
                     "origen": "Jalisco",
                     "estado_destino": "Sinaloa",
                     "lugar_destino": "Central de Abasto de Culiacán",
-                    "precio_min": 25.0,
-                    "precio_max": 25.0,
-                    "precio_frecuente": 25.0,
+                    "precio_min": 22.0,
+                    "precio_max": 22.0,
+                    "precio_frecuente": 22.0,
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
-                    "producto": "Tomate Verde",
-                    "presentacion": "Kilogramo",
-                    "origen": "Sinaloa",
-                    "estado_destino": "Sinaloa",
-                    "lugar_destino": "Zona de Abasto de Mazatlán",
-                    "precio_min": 26.0,
-                    "precio_max": 26.0,
-                    "precio_frecuente": 26.0,
-                    "observaciones": ""
-                },
-                {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Kilogramo",
                     "origen": "Jalisco",
@@ -839,19 +803,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
-                    "producto": "Tomate Verde",
-                    "presentacion": "Caja de 28 kg.",
-                    "origen": "Puebla",
-                    "estado_destino": "Tabasco",
-                    "lugar_destino": "Central de Abasto de Villahermosa",
-                    "precio_min": 900.0,
-                    "precio_max": 1200.0,
-                    "precio_frecuente": 1066.66,
-                    "observaciones": ""
-                },
-                {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Caja de 21 kg.",
                     "origen": "Nuevo León",
@@ -863,7 +815,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Caja de 16 kg.",
                     "origen": "Puebla",
@@ -875,7 +827,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Kilogramo",
                     "origen": "Puebla",
@@ -887,7 +839,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Kilogramo",
                     "origen": "Puebla",
@@ -899,7 +851,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Caja de 20 kg.",
                     "origen": "Distrito Federal",
@@ -911,19 +863,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
-                    "producto": "Tomate Verde",
-                    "presentacion": "Caja de 25 kg.",
-                    "origen": "Distrito Federal",
-                    "estado_destino": "Yucatán",
-                    "lugar_destino": "Mercado \"Casa del Pueblo\"",
-                    "precio_min": 600.0,
-                    "precio_max": 600.0,
-                    "precio_frecuente": 600.0,
-                    "observaciones": ""
-                },
-                {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Tomate Verde",
                     "presentacion": "Kilogramo",
                     "origen": "Jalisco",
@@ -938,14 +878,14 @@
         },
         {
             "cultivo": "Zanahoria",
-            "ultima_actualizacion": "23/11/2026 17:26",
-            "precio_promedio": 126.06,
-            "total_mercados": 9,
-            "total_estados": 7,
+            "ultima_actualizacion": "24/11/2026 16:59",
+            "precio_promedio": 136.45,
+            "total_mercados": 10,
+            "total_estados": 8,
             "total_presentaciones": 5,
             "mercados": [
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Zanahoria polvo",
                     "presentacion": "Arpilla de 20 kg.",
                     "origen": "Zacatecas",
@@ -957,7 +897,7 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Zanahoria polvo",
                     "presentacion": "Arpilla de 25 kg.",
                     "origen": "Puebla",
@@ -969,7 +909,19 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
+                    "producto": "Zanahoria polvo",
+                    "presentacion": "Arpilla de 25 kg.",
+                    "origen": "México",
+                    "estado_destino": "Hidalgo",
+                    "lugar_destino": "Central de Abasto de Pachuca",
+                    "precio_min": 250.0,
+                    "precio_max": 300.0,
+                    "precio_frecuente": 250.0,
+                    "observaciones": ""
+                },
+                {
+                    "fecha": "24/11/2026",
                     "producto": "Zanahoria polvo",
                     "presentacion": "Arpilla de 23 kg.",
                     "origen": "Guanajuato",
@@ -981,7 +933,7 @@
                     "observaciones": "PRE ENFRIADA"
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Zanahoria polvo",
                     "presentacion": "Arpilla de 23 kg.",
                     "origen": "Guanajuato",
@@ -993,7 +945,7 @@
                     "observaciones": "PRE ENFRIADA"
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Zanahoria polvo",
                     "presentacion": "Arpilla de 24 kg.",
                     "origen": "Distrito Federal",
@@ -1002,22 +954,22 @@
                     "precio_min": 180.0,
                     "precio_max": 190.0,
                     "precio_frecuente": 180.0,
-                    "observaciones": ""
+                    "observaciones": "BOLSA DE 23KG."
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Zanahoria polvo",
                     "presentacion": "Arpilla de 23 kg.",
                     "origen": "México",
                     "estado_destino": "México",
                     "lugar_destino": "Central de Abasto de Toluca",
-                    "precio_min": 140.0,
+                    "precio_min": 130.0,
                     "precio_max": 150.0,
-                    "precio_frecuente": 140.0,
+                    "precio_frecuente": 130.0,
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Zanahoria polvo",
                     "presentacion": "Arpilla de 22 kg.",
                     "origen": "Guanajuato",
@@ -1029,19 +981,19 @@
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Zanahoria polvo",
                     "presentacion": "Arpilla de 20 kg.",
                     "origen": "Zacatecas",
                     "estado_destino": "Nuevo León",
                     "lugar_destino": "Mercado de Abasto \"Estrella\" de San Nicolás de los Garza",
-                    "precio_min": 150.0,
-                    "precio_max": 170.0,
-                    "precio_frecuente": 160.0,
+                    "precio_min": 140.0,
+                    "precio_max": 160.0,
+                    "precio_frecuente": 150.0,
                     "observaciones": ""
                 },
                 {
-                    "fecha": "23/11/2026",
+                    "fecha": "24/11/2026",
                     "producto": "Zanahoria polvo",
                     "presentacion": "Arpilla de 23 kg.",
                     "origen": "Puebla",
